@@ -11,7 +11,7 @@ sing-box 远程自定义直连规则集（JSON 源码格式，免编译在线维
 
 ## 文件说明
 
-* `custom-direct.json`：国内小众/补漏网站直连规则集，基于 sing-box Headless Rule 标准规范编写。已预收录国检集团、CBMA 建材数据库、快看漫画、韵达、小米 IoT 等不在 geosite-cn 官方规则中的国内常用服务。
+* `custom-direct.json`：国内小众/补漏网站直连规则集，基于 sing-box Headless Rule 标准规范编写。
 
 ## 维护指南
 
