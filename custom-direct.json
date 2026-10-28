@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "ctc-zc.com",
+        "cbma-materialdatabase.com",
+        "kuaikan.com",
+        "kuaikanmanhua.com",
+        "manhuagui.com",
+        "mhgui.com",
+        "yunda.com",
+        "yundasys.com",
+        "sogouime.com",
+        "miot-spec.com",
+        "hekr.com",
+        "uctoday.com",
+        "mbcmb.com",
+        "ccbc-rel.com",
+        "snssdk.com",
+        "pstatp.com"
+      ]
+    }
+  ]
+}
